@@ -1,0 +1,17 @@
+h4 {
+	font-family:Verdana;
+	color:blue;
+}
+th {
+	color: green;
+	font-family:Garamond;
+	font-size:24px;
+}
+tr {    
+	background-color:yellow;
+}
+td {
+	font-family:Courier;
+	color:purple;
+	font-size:24px;
+}
